@@ -4,4 +4,4 @@
 - Designed & hosted a website for the project to launch DigiDunia’s Waitlist Program.
 - Tools Used: Flutter, Figma, Web Design, Premiere Pro
 - Project Landing Page - https://bit.ly/3NRxtcj
-- Due to certain conditions, we can't upload the code for the application to this repository, but you can use this Google Drive link to view the entire project information including the code - https://bit.ly/digiduniagdrive. Sorry for the inconvenience. Thank you!
+- Due to certain conditions, we can't upload the code for the application to this repository, but you can use this Google Drive link to view the entire project information including the code & content - https://bit.ly/digiduniagdrive. Sorry for the inconvenience. Thank you!
